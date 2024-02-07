@@ -36,26 +36,26 @@ global.doc5 = 'application/pdf'
 global.doc6 = 'application/vnd.android.package-archive'
 
 //OWNER CONTACT
-global.vcardowner = ['94711421243'] //ur owner number
-global.ownername = "ᴋɪɴɢ ᴅᴀʀᴋ ᴀʟᴘʜᴀ" //ur owner name
+global.vcardowner = ['254756574562'] //ur owner number
+global.ownername = "JUPITER" //ur owner name
 global.ytname = "YT: TGM Arcade" //ur yt chanel name
 global.socialm = "GitHub: darkalphaxteam" //ur github or insta name
-global.location = "Sri Lanka, Kurunagala, Nikaweratiya" //ur location
+global.location = "Kenya, Nairobi, Westlands" //ur location
 
 //BOT COSTOMIZEDTATION
-global.owner = ['94711421243']
-global.ownertag = '94711421243' //ur tag number
-global.botnumber = '94764679736' //Add your Bot Number For Log
-global.botname = 'CYBER-X BETA EDITION' //ur bot name
+global.owner = ['254756574562']
+global.ownertag = '254756574562' //ur tag number
+global.botnumber = '254756574562' //Add your Bot Number For Log
+global.botname = 'JUPITER MD' //ur bot name
 global.ig = "https://youtu.be/uzMbW5v9QLE" //your theme url which will be displayed on whatsapp
 global.myweb = "https://youtu.be/uzMbW5v9QLE" //ur website to be displayed
 global.sc = 'https://github.com/darkalphaxteam' //script link
 global.linkz = 'https://youtu.be/uzMbW5v9QLE'
-global.reactmoji = "😘" //ur menu react emoji
+global.reactmoji = "🫡" //ur menu react emoji
 global.themeemoji = "📩" //ur theme emoji
-global.packname = "Cyber-X Test Bot" //ur sticker watermark packname
-global.author = "DARK ALPHA" //ur sticker watermark author
-global.footer = "® ᴄʏʙᴇʀ-x ʙᴇᴛᴀ ᴇᴅɪᴛɪᴏɴ"
+global.packname = "JUPITER" //ur sticker watermark packname
+global.author = "JUPITER" //ur sticker watermark author
+global.footer = "® Jupiter Md ᵀᴹ"
 global.aliveimg ="https://telegra.ph/file/38c052d313ccf14d80550.jpg"
 global.allmenuimg ="https://telegra.ph/file/4f8a6f14430de2a4f4991.jpg"
 global.welcomeimg= "https://telegra.ph/file/844812c77704231c08a90.jpg"
@@ -70,7 +70,7 @@ global.thumb = fs.readFileSync("./LocalData/theme/cyber.jpg") //ur thumb pic
 
 //DATA BASED
 
-global.premium = ['94711421243'] //ADD YOU NUMBER
+global.premium = ['254756574562'] //ADD YOU NUMBER
 global.ntilinkytvid = []
 global.ntilinkytch = []
 global.ntilinkig = []
@@ -91,18 +91,18 @@ global.autorep = []
 global.ntilink = []
 
 //OTHERS
-global.sessionName = 'session'
+global.sessionName = 'cyber-x@;;;cJkRFJSZ#mXhen5Lso4b5Cn2H8s3Kx78Zfm_bJdqfKCykkEd6aE8'
 global.antitags = true
-global.prefa = ['','!','.']
+global.prefa = [',']
 global.sp = '⭔'
 global.mess = {
     success: '✉️✏️ _Done_',
-    admin: '✉️✏️ _This Feature Is Only For Admin!_',
-    botAdmin: '✉️✏️ _Bot Must Be Admin First!_',
-    owner: '✉️✏️ _This Feature Is Only For Owner!_',
-    group: '✉️✏️ _Feature Used Only For Groups!_',
-    private: '✉️✏️ _Features Used Only For Private Chat!_',
-    bot: '✉️✏️ _This Feature Is Only For Bot_',
+    admin: '✉️✏️ _This Feature Is Only For Admin bih!_',
+    botAdmin: '✉️✏️ _Huh! Bot Must Be Admin First!_',
+    owner: '✉️✏️ _This Feature Is Only For Owner sucker!_',
+    group: '✉️✏️ _Feature Used Only For Groups dawg!_',
+    private: '✉️✏️ _Features Used Only For Private Chat bih!_',
+    bot: '✉️✏️ _This Feature Is Only For Bot sucker_',
     wait: '✉️✏️ _Processing Please Wait..._',
     linkm: '📧✏️ _Where is the link?_',
     error: '✉️🤕 ```Error!!```',
